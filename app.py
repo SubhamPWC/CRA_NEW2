@@ -579,7 +579,7 @@ with st.sidebar:
     **Data**: CLIMADA API (ETH Zurich)
     **Methodology**: Scientific VaR modeling
     **Coverage**: {len(INDIAN_STATES)} Indian states
-    **Hazards**: {len(HAZARD_TYPES)} types
+    **Hazards**: {len(CLIMADA_DATASETS)} types
     **Updated**: {datetime.now().strftime('%Y-%m-%d')}
     """)
 
